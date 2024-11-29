@@ -19,8 +19,12 @@ This project utilizes the TMDB 5000 Movies dataset and calculates consine simila
 
 **Dataset Source**
 
-(TMDB Movie Metadata)[!https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv]
+[TMDB Movie Metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
 **Tech Stack:**
 - Programming Language: Python
 - Tools: Streamlit, TMDB API, VS Code, Google Colab
+
+**App UI**
+
+![r1](https://github.com/shibbir282/Comprehensive-Market-Analysis-of-US-Fast-Food-Restaurants/blob/main/Figures/r1.png)
