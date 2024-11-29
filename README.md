@@ -27,4 +27,6 @@ This project utilizes the TMDB 5000 Movies dataset and calculates consine simila
 
 **App UI**
 
-![r1](https://github.com/shibbir282/Comprehensive-Market-Analysis-of-US-Fast-Food-Restaurants/blob/main/Figures/r1.png)
+![m1](https://github.com/shibbir-ahmad24/End-to-End-Movie-Recommendation-System/blob/main/figures/movie.png)
+
+![m2](https://github.com/shibbir-ahmad24/End-to-End-Movie-Recommendation-System/blob/main/figures/movie1.png)
